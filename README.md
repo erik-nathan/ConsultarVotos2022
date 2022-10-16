@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/erik-nathan/ConsultarVotos2022?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/erik-nathan/ConsultarVotos2022?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="img/img-script.png" alt="exemplo imagem">
 
 > Este script utiliza a API do TSE para consultar dados sobre os votos das eleições para presidente do brasil em 2022.
 
